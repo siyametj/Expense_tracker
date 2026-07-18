@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Project local database and generated reports
+main_expense.json
+expense_report.txt
+
+# OS generated files
+.DS_Store
+Thumbs.db

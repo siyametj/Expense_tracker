@@ -1,0 +1,41 @@
+1.Expense ID : 1
+2.Expense Amount : 100.0
+3.Expense Category : bill
+4.Expense Date : 2025-12-03
+5.Expense Description : i give bill of example
+----------------------------------------1.Expense ID : 2
+2.Expense Amount : 20.0
+3.Expense Category : travel
+4.Expense Date : 2025-12-03
+5.Expense Description : i go college
+----------------------------------------1.Expense ID : 3
+2.Expense Amount : 100.0
+3.Expense Category : food
+4.Expense Date : 2025-12-03
+5.Expense Description : i eat tiffin
+----------------------------------------1.Expense ID : 4
+2.Expense Amount : 100.0
+3.Expense Category : food
+4.Expense Date : 2025-12-03
+5.Expense Description : i eat a apple
+----------------------------------------1.Expense ID : 5
+2.Expense Amount : 10.0
+3.Expense Category : shopping
+4.Expense Date : 2025-12-03
+5.Expense Description : i buy a pen
+----------------------------------------1.Expense ID : 6
+2.Expense Amount : 10.0
+3.Expense Category : food
+4.Expense Date : 2025-12-04
+5.Expense Description : i eat a food
+----------------------------------------1.Expense ID : 7
+2.Expense Amount : 20.0
+3.Expense Category : travel
+4.Expense Date : 2025-12-04
+5.Expense Description : i go college
+----------------------------------------1.Expense ID : 8
+2.Expense Amount : 100.0
+3.Expense Category : food
+4.Expense Date : 2025-12-06
+5.Expense Description : just a example expense
+----------------------------------------
